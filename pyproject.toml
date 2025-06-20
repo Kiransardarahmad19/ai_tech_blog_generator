@@ -1,0 +1,12 @@
+[project]
+name = "Tech_Blog_Generator"
+version = "0.1.0"
+description = "Tech_Blog_Generator"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ell-ai[all]>=0.0.12",
+    "openai>=1.66.3",
+    "pydantic>=2.9.2",
+    "streamlit>=1.45.1",
+]
